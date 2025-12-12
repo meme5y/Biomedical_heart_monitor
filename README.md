@@ -6,7 +6,7 @@
 | Team Member | Role | Specialization | Contribution |
 |-------------|------|---------------|--------------|
 | **Fernando Augusto** | Embedded Systems Engineer | Arduino, C++, Signal Processing | Hardware design, firmware development, algorithm implementation |
-| **[Nome da Colega]** | Biomedical Specialist | Human Physiology, Clinical Validation | Medical requirements, testing protocols, accuracy validation |
+| **Edna Raquel Simbe** | Biomedical Specialist | Human Physiology, Clinical Validation | Medical requirements, testing protocols, accuracy validation |
 
 ## 🎯 Project Overview
 A photoplethysmography (PPG)-based heart rate monitoring system built with Arduino, demonstrating how affordable technology can address healthcare needs in resource-limited settings like Mozambique.
