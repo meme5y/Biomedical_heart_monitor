@@ -1,3 +1,9 @@
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Biomedical](https://img.shields.io/badge/Biomedical-DC143C?style=for-the-badge)
+![PPG Technology](https://img.shields.io/badge/PPG%20Technology-8A2BE2?style=for-the-badge)
+![Interdisciplinary](https://img.shields.io/badge/Interdisciplinary-FF8C00?style=for-the-badge)
+![Made in Mozambique](https://img.shields.io/badge/Made%20in-Mozambique-009639?style=for-the-badge)
+
 # ❤️ Biomedical Heart Rate Monitor with PPG Technology
 
 ## 👥 Interdisciplinary Collaboration Project
