@@ -95,7 +95,7 @@ const int pinoLED = 7;       // Pulse visual feedback
 - Real-time data processing
 - Medical device safety considerations
 
-### For Biomedical Students ([Colega]):
+### For Biomedical Students (Edna Raquel):
 - Technical implementation of medical concepts
 - Device validation methodologies
 - Clinical relevance of engineering decisions
@@ -161,7 +161,7 @@ BPM = (Pulses counted in 10 seconds) × 6
 ## 🤝 Collaboration Methodology
 ### Weekly Workflow:
 1. **Monday**: Engineering implementation (Fernando)
-2. **Wednesday**: Biomedical testing ([Colega])
+2. **Wednesday**: Biomedical testing (Edna Raquel)
 3. **Friday**: Joint review and iteration
 4. **Sunday**: Documentation and planning
 
@@ -179,7 +179,7 @@ BPM = (Pulses counted in 10 seconds) × 6
 - Real-time system design
 - Hardware debugging
 
-### Biomedical Skills ([Colega]):
+### Biomedical Skills (Edna Raquel):
 - Clinical testing design
 - Medical device validation
 - Physiological measurement
@@ -203,7 +203,7 @@ BPM = (Pulses counted in 10 seconds) × 6
 | Team Member | Specialization | Contact | Academic Goals |
 |-------------|---------------|---------|---------------|
 | Fernando Augusto | Embedded Systems, AI | [arthur874066@gmail.com](mailto:arthur874066@gmail.com) | Aerospace/Computer Engineering at Boston University |
-| [Nome da Colega] | Biomedical Sciences | [Email da Colega] | Biomedical Engineering |
+| Edna Raquel Simbe| Biomedical Sciences | carl862519@gmail.com.| Biomedical Engineering |
 
 ## 📄 License
 MIT License - Open for educational and humanitarian use
