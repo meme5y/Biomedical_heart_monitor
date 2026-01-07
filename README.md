@@ -202,7 +202,7 @@ BPM = (Pulses counted in 10 seconds) × 6
 ## 🔗 Connect With Us
 | Team Member | Specialization | Contact | Academic Goals |
 |-------------|---------------|---------|---------------|
-| Fernando Augusto | Embedded Systems, AI | [arthur874066@gmail.com](mailto:arthur874066@gmail.com) | Aerospace/Computer Engineering at Boston University |
+| Fernando Augusto | Embedded Systems, AI | [arthur874066@gmail.com](mailto:arthur874066@gmail.com) | Aerospace/Computer Engineering |
 | Edna Raquel Simbe| Biomedical Sciences | carl862519@gmail.com.| Biomedical Engineering |
 
 ## 📄 License
